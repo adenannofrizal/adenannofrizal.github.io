@@ -1,4 +1,4 @@
-### Publication (_2022-Latest_)
+### Publications (_2022-Latest_)
 
 *   Priority Corridor Zone for Human-Tiger Conflict Mitigation: A Landscape Connectivity Approach in West Sumatra Region, Indonesia.[(2023)](https://www.sciencedirect.com/science/article/pii/S1617138123001723)
 *   Estimating chlorophyll content of Zizania latifolia with hyperspectral data and random forest.[(2022)](https://dergipark.org.tr/en/pub/ijeg/article/953188)
