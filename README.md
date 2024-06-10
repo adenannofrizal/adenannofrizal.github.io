@@ -1,6 +1,6 @@
 ### Publication (_2022-Latest_)
 
-*   Evaluation of a One-Dimensional Convolution Neural Network for Chlorophyll Content Estimation Using a Compact Spectrometer.(https://www.mdpi.com/2072-4292/14/9/1997)
+*   Evaluation of a One-Dimensional Convolution Neural Network for Chlorophyll Content Estimation Using a Compact Spectrometer.[Link](https://www.mdpi.com/2072-4292/14/9/1997)
 
 ### Education
 
