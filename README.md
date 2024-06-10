@@ -1,4 +1,4 @@
-## Education
+### Education
 
 - Ph.D., Charles University, Czech Republic (_Ongoing_)
   - Department of Geoinformatics Cartography and Remote Sensing 
