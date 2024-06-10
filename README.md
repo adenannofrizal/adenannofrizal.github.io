@@ -25,7 +25,7 @@
 *   Landslides Susceptibility Mapping in R Program (Case study in Lima Puluh Kota Regency).[(2022)](https://mjfas.utm.my/index.php/mjfas/article/view/2534)
 *   Evaluation of a One-Dimensional Convolution Neural Network for Chlorophyll Content Estimation Using a Compact Spectrometer.[(2022)](https://www.mdpi.com/2072-4292/14/9/1997)
 
-## Conference Presentation (_2022-Latest_)
+## Conference Presentations (_2022-Latest_)
 
 *   13th EARSeL Workshop on Imaging Spectroscopy in València, *Poster Presentator*.[(2024)](https://is.earsel.org/workshop/13-IS-Valencia2024/)
 *   International Geoscience and Remote Sensing Symposium (IGARSS 2022), *Oral Presentator*.[(2022)](https://www.igarss2022.org/)
