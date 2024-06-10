@@ -1,5 +1,4 @@
-### Adenan Yandra Nofrizal
-#### nofrizaa@natur.cuni.cz
+### Adenan Yandra Nofrizal #### nofrizaa@natur.cuni.cz
 ### Education
 
 - Ph.D., Charles University, Czech Republic (_2022-Now_)
