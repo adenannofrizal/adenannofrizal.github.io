@@ -1,5 +1,5 @@
 #### nofrizaa@natur.cuni.cz
-###### Remote sensing and geospatial researcher. with a particular focus on the utilisation of hyperspectral data in the context of vegetation traits and ecological analysis. In order to achieve my research objectives, I have employed a range of techniques, including machine learning and radiative transfer models (RTMs)
+###### My research focus on the utilisation of hyperspectral data in the context of vegetation traits and ecological analysis. In order to achieve my research objectives, I have employed a range of techniques, including machine learning and radiative transfer models (RTMs)
 
 [Google Scholar](https://scholar.google.com/citations?user=FqkFQaAAAAAJ&hl=en)
 
