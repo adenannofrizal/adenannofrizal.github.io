@@ -8,4 +8,6 @@
   - Department of Geography
 
 ### Social media
+[Google Scholar](https://scholar.google.com/citations?user=FqkFQaAAAAAJ&hl=en)
+[ResearchGate](https://www.researchgate.net/profile/Adenan-Yandra-Nofrizal)
 [LinkedIn](https://www.linkedin.com/in/adenan-yandra-nofrizal-b74416166/)
