@@ -1,3 +1,20 @@
+### Education
+
+- Ph.D., Charles University, Czech Republic (_2022-Now_)
+  - Department of Geoinformatics, Cartography and Remote Sensing 
+- M.Agr., Shizuoka University, Japan (_2020-2022_)
+  - Macroecology Lab, Faculty of Agriculture, Research focus on Remote Sensing of Vegetation
+- B.Sc., State University of Padang, Indonesia (_2014-2018_)
+  - Department of Geography
+
+### Social media
+[Google Scholar](https://scholar.google.com/citations?user=FqkFQaAAAAAJ&hl=en)
+
+[ResearchGate](https://www.researchgate.net/profile/Adenan-Yandra-Nofrizal)
+
+[LinkedIn](https://www.linkedin.com/in/adenan-yandra-nofrizal-b74416166/)
+
+
 ### Publications (_2022-Latest_)
 
 *   Priority Corridor Zone for Human-Tiger Conflict Mitigation: A Landscape Connectivity Approach in West Sumatra Region, Indonesia.[(2023)](https://www.sciencedirect.com/science/article/pii/S1617138123001723)
@@ -7,18 +24,7 @@
 *   Landslides Susceptibility Mapping in R Program (Case study in Lima Puluh Kota Regency).[(2022)](https://mjfas.utm.my/index.php/mjfas/article/view/2534)
 *   Evaluation of a One-Dimensional Convolution Neural Network for Chlorophyll Content Estimation Using a Compact Spectrometer.[(2022)](https://www.mdpi.com/2072-4292/14/9/1997)
 
-### Education
+### Conference Presentator (_2022-Latest_)
 
-- Ph.D., Charles University, Czech Republic (_2022-Now_)
-  - Department of Geoinformatics, Cartography and Remote Sensing 
-- M.Agr., Shizuoka University, Japan (_2020-2022_)
-  - Macroecology Lab, Faculty of Agriculture, Research focus on Remote Sensing of Vegetation
-- B.Sc., Universitas Negeri Padang, Indonesia (_2014-2018_)
-  - Department of Geography
-
-### Social media
-[Google Scholar](https://scholar.google.com/citations?user=FqkFQaAAAAAJ&hl=en)
-
-[ResearchGate](https://www.researchgate.net/profile/Adenan-Yandra-Nofrizal)
-
-[LinkedIn](https://www.linkedin.com/in/adenan-yandra-nofrizal-b74416166/)
+*   13th EARSeL Workshop on Imaging Spectroscopy in València, *Poster Presentator*.[(2022)](https://is.earsel.org/workshop/13-IS-Valencia2024/)
+*   International Geoscience and Remote Sensing Symposium (IGARSS 2022), *Oral Presentator*.[(2022)](https://www.igarss2022.org/)
