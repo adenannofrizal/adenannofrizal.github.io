@@ -6,7 +6,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/adenan-yandra-nofrizal-b74416166/)
 
-### Education
+## Education
 
 - Ph.D., Charles University, Czech Republic (_2022-Now_)
   - Department of Geoinformatics, Cartography and Remote Sensing 
@@ -16,7 +16,7 @@
   - Department of Geography
 
 
-### Publications (_2022-Latest_)
+## Publications (_2022-Latest_)
 
 *   Priority Corridor Zone for Human-Tiger Conflict Mitigation: A Landscape Connectivity Approach in West Sumatra Region, Indonesia.[(2023)](https://www.sciencedirect.com/science/article/pii/S1617138123001723)
 *   Estimating chlorophyll content of Zizania latifolia with hyperspectral data and random forest.[(2022)](https://dergipark.org.tr/en/pub/ijeg/article/953188)
@@ -25,7 +25,7 @@
 *   Landslides Susceptibility Mapping in R Program (Case study in Lima Puluh Kota Regency).[(2022)](https://mjfas.utm.my/index.php/mjfas/article/view/2534)
 *   Evaluation of a One-Dimensional Convolution Neural Network for Chlorophyll Content Estimation Using a Compact Spectrometer.[(2022)](https://www.mdpi.com/2072-4292/14/9/1997)
 
-### Conference Presentator (_2022-Latest_)
+## Conference Presentator (_2022-Latest_)
 
 *   13th EARSeL Workshop on Imaging Spectroscopy in València, *Poster Presentator*.[(2024)](https://is.earsel.org/workshop/13-IS-Valencia2024/)
 *   International Geoscience and Remote Sensing Symposium (IGARSS 2022), *Oral Presentator*.[(2022)](https://www.igarss2022.org/)
