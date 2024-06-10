@@ -1,5 +1,10 @@
 ### Adenan Yandra Nofrizal 
-##### nofrizaa@natur.cuni.cz
+#### nofrizaa@natur.cuni.cz
+[Google Scholar](https://scholar.google.com/citations?user=FqkFQaAAAAAJ&hl=en)
+
+[ResearchGate](https://www.researchgate.net/profile/Adenan-Yandra-Nofrizal)
+
+[LinkedIn](https://www.linkedin.com/in/adenan-yandra-nofrizal-b74416166/)
 
 ### Education
 
@@ -9,13 +14,6 @@
   - Macroecology Lab, Faculty of Agriculture, Research focus on Remote Sensing of Vegetation
 - B.Sc., State University of Padang, Indonesia (_2014-2018_)
   - Department of Geography
-
-### Social media
-[Google Scholar](https://scholar.google.com/citations?user=FqkFQaAAAAAJ&hl=en)
-
-[ResearchGate](https://www.researchgate.net/profile/Adenan-Yandra-Nofrizal)
-
-[LinkedIn](https://www.linkedin.com/in/adenan-yandra-nofrizal-b74416166/)
 
 
 ### Publications (_2022-Latest_)
