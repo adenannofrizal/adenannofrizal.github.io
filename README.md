@@ -8,4 +8,4 @@
   - Department of Geography
 
 ### Social media
-[Linked in] (https://www.linkedin.com/in/adenan-yandra-nofrizal-b74416166/)
+[LinkedIn](https://www.linkedin.com/in/adenan-yandra-nofrizal-b74416166/)
