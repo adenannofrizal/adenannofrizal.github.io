@@ -1,6 +1,6 @@
 ### Publication (_2022-Latest_)
 
-*   Priority Corridor Zone for Human-Tiger Conflict Mitigation: A Landscape Connectivity Approach in West Sumatra Region, Indonesia.[(2022](https://www.sciencedirect.com/science/article/pii/S1617138123001723)
+*   Priority Corridor Zone for Human-Tiger Conflict Mitigation: A Landscape Connectivity Approach in West Sumatra Region, Indonesia.[(2022)](https://www.sciencedirect.com/science/article/pii/S1617138123001723)
 *   Estimating chlorophyll content of Zizania latifolia with hyperspectral data and random forest.[(2022)](https://dergipark.org.tr/en/pub/ijeg/article/953188)
 *   Use of spectral reflectance from a compact spectrometer to assess chlorophyll content in Zizania latifolia.[(2022)](https://www.tandfonline.com/doi/full/10.1080/10106049.2021.1914747)
 *   Crop Classification Using a Combination of Spectral Indices from Spatiotemporal Multispectral Imagery and Machine Learning.[(2022)](https://ieeexplore.ieee.org/abstract/document/9884135)
