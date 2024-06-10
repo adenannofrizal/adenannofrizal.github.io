@@ -9,7 +9,7 @@
 
 ### Education
 
-- Ph.D., Charles University, Czech Republic (_Ongoing_)
+- Ph.D., Charles University, Czech Republic (_2022-Now_)
   - Department of Geoinformatics, Cartography and Remote Sensing 
 - M.Agr., Shizuoka University, Japan (_2020-2022_)
   - Macroecology Lab, Faculty of Agriculture, Research focus on Remote Sensing of Vegetation
