@@ -5,4 +5,7 @@
 - M.Agr., Shizuoka University, Japan (_2020-2022_)
   - Macroecology Lab, Faculty of Agriculture, Research focus on Remote Sensing of Vegetation
 - B.Sc., Universitas Negeri Padang, Indonesia (_2014-2018_)
-  - Department of Geography 
+  - Department of Geography
+
+### Social media
+[Linked in] (https://www.linkedin.com/in/adenan-yandra-nofrizal-b74416166/)
