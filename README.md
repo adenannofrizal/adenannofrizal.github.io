@@ -4,4 +4,4 @@
 - M.Agr., Shizuoka University (_2020-2022_)
    -Macroecology Lab, Faculty of Agriculture             		
 - B.Sc., Universitas Negeri Padang (_2014-2018_)
-   Department of Geoography
+   -Department of Geography
