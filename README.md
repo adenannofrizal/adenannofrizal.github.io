@@ -26,5 +26,5 @@
 
 ### Conference Presentator (_2022-Latest_)
 
-*   13th EARSeL Workshop on Imaging Spectroscopy in València, *Poster Presentator*.[(2022)](https://is.earsel.org/workshop/13-IS-Valencia2024/)
+*   13th EARSeL Workshop on Imaging Spectroscopy in València, *Poster Presentator*.[(2024)](https://is.earsel.org/workshop/13-IS-Valencia2024/)
 *   International Geoscience and Remote Sensing Symposium (IGARSS 2022), *Oral Presentator*.[(2022)](https://www.igarss2022.org/)
