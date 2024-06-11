@@ -15,6 +15,8 @@
 - B.Sc., State University of Padang, Indonesia (_2014-2018_)
   - Department of Geography
 
+## Activities
+
 
 ## Publications (_2022-Latest_)
 
