@@ -29,6 +29,6 @@
 
 ## Conference Presentations and Training (_2022-Latest_)
 
-*   Training in 3D Discrete Anisotropic Radiative Transfer (DART) in University of Bonn, 9 & 10 September 2024 
+*   Training in 3D Discrete Anisotropic Radiative Transfer (DART), 9 & 10 September 2024 by the Remote Sensing Research Group (RSRG) of the Department of Geography at the University of Bonn.
 *   13th EARSeL Workshop on Imaging Spectroscopy in València, *Poster Presentator*.[(2024)](https://is.earsel.org/workshop/13-IS-Valencia2024/)
 *   International Geoscience and Remote Sensing Symposium (IGARSS 2022), *Oral Presentator*.[(2022)](https://www.igarss2022.org/)
