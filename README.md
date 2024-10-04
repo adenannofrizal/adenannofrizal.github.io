@@ -16,7 +16,7 @@
   - Department of Geography
 
 ## Activities
-
+- 30 September - 4 October 2024 ( PANGEOS COST SUMMER SCHOOL) 
 
 ## Publications (_2022-Latest_)
 
