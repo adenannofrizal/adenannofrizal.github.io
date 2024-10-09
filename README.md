@@ -16,7 +16,7 @@
   - Department of Geography
 
 ## Activities
-- 30 September - 4 October | 2024 I participated in PANGEOS COST Action CA22136 Joint WG1-WG4 Summer School “Uncertainty analysis and protocol standardisation assessment on novel and operational hyperspectral data products” 
+- 30 September - 4 October 2024 | I participated in PANGEOS COST Action CA22136 Joint WG1-WG4 Summer School “Uncertainty analysis and protocol standardisation assessment on novel and operational hyperspectral data products” 
 
 ## Publications (_2022-Latest_)
 
