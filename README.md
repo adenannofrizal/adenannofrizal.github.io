@@ -16,7 +16,7 @@
   - Department of Geography
 
 ## Activities
-- 13 - 16 November 2024 // I participated in 3rd Workhsop on International Cooperation in Spaceborne Imageing Spectroscopy, ESA-ESTEC Noordwijk Netherland
+- 13 - 16 November 2024 // I participated in 3rd Workhsop on International Cooperation in Spaceborne Imaging Spectroscopy, ESA-ESTEC Noordwijk Netherland
 - 22 October 2024 // I am in Bonn as a visiting student in the Remote Sensing Research Group at the University of Bonn for 5 months. During this visit, I will learn about the application of DART RTM for evaluating forest health
 - 30 September - 4 October 2024 // I participated in PANGEOS COST Action CA22136 Joint WG1-WG4 Summer School “Uncertainty analysis and protocol standardisation assessment on novel and operational hyperspectral data products”
 
@@ -32,7 +32,7 @@
 
 ## Conference Presentations and Training (_2022-Latest_)
 
-*   3rd Workhsop on International Cooperation in Spaceborne Imageing Spectroscopy, ESA Hyperspectral,*Poster Presentator*.[(2024)](https://hyperspectral2024.esa.int/)
+*   3rd Workhsop on International Cooperation in Spaceborne Imaging Spectroscopy, ESA Hyperspectral,*Poster Presentator*.[(2024)](https://hyperspectral2024.esa.int/)
 *   Training in 3D Discrete Anisotropic Radiative Transfer (DART), 9 & 10 September 2024 by the Remote Sensing Research Group (RSRG) of the Department of Geography at the University of Bonn.
 *   13th EARSeL Workshop on Imaging Spectroscopy in València, *Poster Presentator*.[(2024)](https://is.earsel.org/workshop/13-IS-Valencia2024/)
 *   International Geoscience and Remote Sensing Symposium (IGARSS 2022), *Oral Presentator*.[(2022)](https://www.igarss2022.org/)
