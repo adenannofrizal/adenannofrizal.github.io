@@ -16,7 +16,7 @@
   - Department of Geography
 
 ## Activities
-- 13 - 16 November 2024 // I participated in 3rd Workhsop on International Cooperation in Spaceborne Imaging Spectroscopy, ESA-ESTEC Noordwijk Netherland
+- 13 - 15 November 2024 // I participated in 3rd Workhsop on International Cooperation in Spaceborne Imaging Spectroscopy, ESA-ESTEC Noordwijk Netherland
 - 22 October 2024 // I am in Bonn as a visiting student in the Remote Sensing Research Group at the University of Bonn for 5 months. During this visit, I will learn about the application of DART RTM for evaluating forest health
 - 30 September - 4 October 2024 // I participated in PANGEOS COST Action CA22136 Joint WG1-WG4 Summer School “Uncertainty analysis and protocol standardisation assessment on novel and operational hyperspectral data products”
 
