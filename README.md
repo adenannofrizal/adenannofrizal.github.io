@@ -9,10 +9,9 @@
 ## Education
 
 - Ph.D., Charles University, Czech Republic (_2022-Now_)
-  - Department of Geoinformatics, Cartography and Remote Sensing 
+  - Study program of Geoinformatics, Cartography and Remote Sensing 
 - M.Agr., Shizuoka University, Japan (_2020-2022_)
-  - Macroecology Lab, Faculty of Agriculture, Research focus on Remote Sensing of Vegetation
-- B.Sc., State University of Padang, Indonesia (_2014-2018_)
+  - Macroecology Lab, Graduate Program of Integrated Science and Technology, Research focus on Remote Sensing of Vegetation 
   - Department of Geography
 
 ## Activities
