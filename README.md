@@ -17,6 +17,7 @@
   - Department of Geography
 
 ## Activities
+- 13 Nopember 2025 // I am happy to announce that our latest article entitled "Needle- and Canopy-Level Genetic Variation in Scots Pine (Pinus sylvestris L.) Revealed by Hyperspectral Phenotyping Across Sites and Seasons" has been published at Evolutionary Applications, Scopus Q1, IF:3.2.[(link)](https://onlinelibrary.wiley.com/journal/17524571)  
 - 09 September 2025 // I am happy to announce that I have passed my state doctoral exam. I hope to defend my doctoral dissertation as soon as possible
 - 13 - 15 November 2024 // I participated in 3rd Workhsop on International Cooperation in Spaceborne Imaging Spectroscopy, ESA-ESTEC Noordwijk Netherland
 - 22 October 2024 // I am in Bonn as a visiting student in the Remote Sensing Research Group at the University of Bonn for 5 months. During this visit, I will learn about the application of DART RTM for evaluating forest health
@@ -25,6 +26,7 @@
 
 ## Publications (_2022-Latest_)
 
+*   Needle- and Canopy-Level Genetic Variation in Scots Pine (Pinus sylvestris L.) Revealed by Hyperspectral Phenotyping Across Sites and Seasons.[(2025)](https://onlinelibrary.wiley.com/journal/17524571)
 *   Priority Corridor Zone for Human-Tiger Conflict Mitigation: A Landscape Connectivity Approach in West Sumatra Region, Indonesia.[(2023)](https://www.sciencedirect.com/science/article/pii/S1617138123001723)
 *   Estimating chlorophyll content of Zizania latifolia with hyperspectral data and random forest.[(2022)](https://dergipark.org.tr/en/pub/ijeg/article/953188)
 *   Use of spectral reflectance from a compact spectrometer to assess chlorophyll content in Zizania latifolia.[(2022)](https://www.tandfonline.com/doi/full/10.1080/10106049.2021.1914747)
