@@ -26,7 +26,7 @@
 
 ## Publications (_2022-Latest_)
 
-*   Needle- and Canopy-Level Genetic Variation in Scots Pine (Pinus sylvestris L.) Revealed by Hyperspectral Phenotyping Across Sites and Seasons.[(2025)](https://onlinelibrary.wiley.com/journal/17524571)
+*   Needle- and Canopy-Level Genetic Variation in Scots Pine (Pinus sylvestris L.) Revealed by Hyperspectral Phenotyping Across Sites and Seasons.[(2025)](https://onlinelibrary.wiley.com/doi/10.1111/eva.70176)
 *   Priority Corridor Zone for Human-Tiger Conflict Mitigation: A Landscape Connectivity Approach in West Sumatra Region, Indonesia.[(2023)](https://www.sciencedirect.com/science/article/pii/S1617138123001723)
 *   Estimating chlorophyll content of Zizania latifolia with hyperspectral data and random forest.[(2022)](https://dergipark.org.tr/en/pub/ijeg/article/953188)
 *   Use of spectral reflectance from a compact spectrometer to assess chlorophyll content in Zizania latifolia.[(2022)](https://www.tandfonline.com/doi/full/10.1080/10106049.2021.1914747)
