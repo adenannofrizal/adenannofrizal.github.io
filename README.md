@@ -1,9 +1,7 @@
 #### My research focus on the utilisation of hyperspectral data in the context of vegetation traits and ecological analysis. In order to achieve my research objectives, I use different techniques, including machine learning and radiative transfer models (RTMs)
 #### nofrizaa@natur.cuni.cz
 [Google Scholar](https://scholar.google.com/citations?user=FqkFQaAAAAAJ&hl=en)
-
 [ResearchGate](https://www.researchgate.net/profile/Adenan-Yandra-Nofrizal)
-
 [LinkedIn](https://www.linkedin.com/in/adenan-yandra-nofrizal-b74416166/)
 
 ## Education
@@ -13,7 +11,7 @@
 - M.Agr., Shizuoka University, Japan (_2020-2022_)
   - Macroecology Lab, Graduate Program of Integrated Science and Technology,
     Research focus on Remote Sensing of Vegetation 
-- B.sc., State University of Padang, Indonesia (_2014-2018_)
+- B.Sc., State University of Padang, Indonesia (_2014-2018_)
   - Department of Geography
 
 ## Activities
