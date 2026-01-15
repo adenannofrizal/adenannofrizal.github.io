@@ -1,4 +1,4 @@
-#### My research focus on the utilisation of hyperspectral data in the context of vegetation traits and ecological analysis. In order to achieve my research objectives, I use different techniques, including machine learning and radiative transfer models (RTMs)
+#### My research focus on the utilisation of hyperspectral data in the context of vegetation traits, biodiversity, and ecological analysis. In order to achieve my research objectives, I use different techniques, including machine learning and radiative transfer models (RTMs).
 #### nofrizaa@natur.cuni.cz
 [Google Scholar](https://scholar.google.com/citations?user=FqkFQaAAAAAJ&hl=en) || 
 [ResearchGate](https://www.researchgate.net/profile/Adenan-Yandra-Nofrizal) || 
@@ -15,6 +15,8 @@
   - Department of Geography
 
 ## Activities
+- 13 January 2026 // I am happy to announce that our latest article entitled "Analyzing meteorological effects on crop yield and yield prediction through machine learning with different data partitioning approaches: A case study from Czech Republic" has been published at Journal of Agriculture and Food Research, (Scopus Q2, IF:6.2).
+- 01 January 2026 // I am happy to announce that our latest article entitled "Majority Filter For Enhancing Pixel-Based Random Forest Land Cover Classification In Sukajaya District, Bogor Regency" has been published at Geography, Environment, Sustainability, (Scopus Q2).
 - 13 November 2025 // I am happy to announce that our latest article entitled "Needle- and Canopy-Level Genetic Variation in Scots Pine (Pinus sylvestris L.) Revealed by Hyperspectral Phenotyping Across Sites and Seasons" has been published at Evolutionary Applications,(Scopus Q1, IF:3.2).
 - 09 September 2025 // I am happy to announce that I have passed my state doctoral exam. I hope to defend my doctoral dissertation as soon as possible
 - 13 - 15 November 2024 // I participated in 3rd Workhsop on International Cooperation in Spaceborne Imaging Spectroscopy, ESA-ESTEC Noordwijk Netherland
@@ -24,6 +26,8 @@
 
 ## Publications (_2022-Latest_)
 
+*   Analyzing meteorological effects on crop yield and yield prediction through machine learning with different data partitioning approaches: A case study from Czech Republic.[(2026)](https://www.sciencedirect.com/science/article/pii/S2666154326000323)
+*   Majority Filter For Enhancing Pixel-Based Random Forest Land Cover Classification In Sukajaya District, Bogor Regency.[(2026)](https://ges.rgo.ru/jour/article/view/4467)
 *   Needle- and Canopy-Level Genetic Variation in Scots Pine (Pinus sylvestris L.) Revealed by Hyperspectral Phenotyping Across Sites and Seasons.[(2025)](https://onlinelibrary.wiley.com/doi/10.1111/eva.70176)
 *   Priority Corridor Zone for Human-Tiger Conflict Mitigation: A Landscape Connectivity Approach in West Sumatra Region, Indonesia.[(2023)](https://www.sciencedirect.com/science/article/pii/S1617138123001723)
 *   Estimating chlorophyll content of Zizania latifolia with hyperspectral data and random forest.[(2022)](https://dergipark.org.tr/en/pub/ijeg/article/953188)
