@@ -6,7 +6,7 @@
 
 ## Education
 
-- Ph.D., Charles University, Czech Republic [(_2022-Now_)](https://www.tilspec.cz/)
+- Ph.D., Charles University, Czech Republic [(_2022-Now_)](https://www.tilspec.cz/about-us/)
   - Study program of Geoinformatics, Cartography and Remote Sensing 
 - M.Agr., Shizuoka University, Japan [(_2020-2022_)](https://wwp.shizuoka.ac.jp/macroecology/projects/)
   - Macroecology Lab, Graduate Program of Integrated Science and Technology,
