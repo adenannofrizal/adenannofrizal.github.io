@@ -1,4 +1,4 @@
-#### My research focus on the utilisation of hyperspectral data in the context of vegetation traits, biodiversity, and ecological analysis. In order to achieve my research objectives, I use different techniques, including machine learning and radiative transfer models (RTMs).
+#### My research focus on the utilisation of remote sensing (especially hyperspectral) data in the context of vegetation traits, biodiversity, and ecological analysis. In order to achieve my research objectives, I use different techniques, including machine learning and radiative transfer models (RTMs).
 #### nofrizaa@natur.cuni.cz
 [Google Scholar](https://scholar.google.com/citations?user=FqkFQaAAAAAJ&hl=en) || 
 [ResearchGate](https://www.researchgate.net/profile/Adenan-Yandra-Nofrizal) || 
