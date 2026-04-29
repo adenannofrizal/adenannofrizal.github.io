@@ -15,7 +15,7 @@
   - Department of Geography
 
 ## Activities
-- 21 January 2026 // I am happy to announce that our latest article entitled "Machine Learning-Based Leaf Silica Content Estimation From Hyperspectral Reflectance" has been published at Agricultural Research, (Scopus Q2, IF:1.1).
+- 11 April 2026 // I am happy to announce that our latest article entitled "Machine Learning-Based Leaf Silica Content Estimation From Hyperspectral Reflectance" has been published at Agricultural Research, (Scopus Q2, IF:1.1).
 - 21 January 2026 // I am happy to announce that our latest article entitled "Non-destructive estimation of chlorophyll content in wasabi (Eutrema japonicum) leaves using spectral reflectance and deep learning models" has been published at Journal of Food Composition and Analysis, (Scopus Q1, IF:4.6).
 - 18 January 2026 // I am happy to announce that our latest article entitled "Spatiotemporal variability of leaf functional traits in central European floodplain forests: integrating in-situ, hyperspectral, and Sentinel-2 data with RTM, PLSR, and neural networks" has been published at International Journal of Remote Sensing, (Scopus Q1, IF:2.6).
 - 13 January 2026 // I am happy to announce that our latest article entitled "Analyzing meteorological effects on crop yield and yield prediction through machine learning with different data partitioning approaches: A case study from Czech Republic" has been published at Journal of Agriculture and Food Research, (Scopus Q2, IF:6.2).
