@@ -15,6 +15,7 @@
   - Department of Geography
 
 ## Activities
+- 21 January 2026 // I am happy to announce that our latest article entitled "Machine Learning-Based Leaf Silica Content Estimation From Hyperspectral Reflectance" has been published at Agricultural Research, (Scopus Q2, IF:1.1).
 - 21 January 2026 // I am happy to announce that our latest article entitled "Non-destructive estimation of chlorophyll content in wasabi (Eutrema japonicum) leaves using spectral reflectance and deep learning models" has been published at Journal of Food Composition and Analysis, (Scopus Q1, IF:4.6).
 - 18 January 2026 // I am happy to announce that our latest article entitled "Spatiotemporal variability of leaf functional traits in central European floodplain forests: integrating in-situ, hyperspectral, and Sentinel-2 data with RTM, PLSR, and neural networks" has been published at International Journal of Remote Sensing, (Scopus Q1, IF:2.6).
 - 13 January 2026 // I am happy to announce that our latest article entitled "Analyzing meteorological effects on crop yield and yield prediction through machine learning with different data partitioning approaches: A case study from Czech Republic" has been published at Journal of Agriculture and Food Research, (Scopus Q2, IF:6.2).
@@ -28,6 +29,7 @@
 
 ## Publications (_2022-Latest_)
 
+*   Machine Learning-Based Leaf Silica Content Estimation From Hyperspectral Reflectance. .[(2026)](https://link.springer.com/article/10.1007/s40003-026-00988-2)
 *   Non-destructive estimation of chlorophyll content in wasabi (Eutrema japonicum) leaves using spectral reflectance and deep learning models.[(2026)](https://www.sciencedirect.com/science/article/pii/S0889157526000621)
 *   Spatiotemporal variability of leaf functional traits in central European floodplain forests: integrating in-situ, hyperspectral, and Sentinel-2 data with RTM, PLSR, and neural networks.[(2026)](https://www.tandfonline.com/doi/full/10.1080/01431161.2026.2612846)
 *   Analyzing meteorological effects on crop yield and yield prediction through machine learning with different data partitioning approaches: A case study from Czech Republic.[(2026)](https://www.sciencedirect.com/science/article/pii/S2666154326000323)
