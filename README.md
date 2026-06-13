@@ -15,7 +15,7 @@
   - Department of Geography
 
 ## Activities
-- 2-4 June 2026 // I had the opportunity to attend and present my research entitled "Assessing spatiotemporal variability of forest functional traits using Airborne hyperspectral and Sentinel-2 Data" at the 13th EARSeL Imaging Spectroscopy Workshop in Helsinki, Finland.
+- 2-4 June 2026 // I had the opportunity to attend and present my research entitled "Assessing spatiotemporal variability of forest functional traits using Airborne hyperspectral and Sentinel-2 Data" at the 14th EARSeL Imaging Spectroscopy Workshop in Helsinki, Finland.
 - 4-6 May 2026 // I had the opportunity to attend and present my poster at the 'Interdisciplinary Insight from RECROP, DIVERSICROP and PANGEOS' conference in Prague, Czech Republic.
 - 11 April 2026 // I am happy to announce that our latest article entitled "Machine Learning-Based Leaf Silica Content Estimation From Hyperspectral Reflectance" has been published at Agricultural Research, (Scopus Q2, IF:1.1).
 - 21 January 2026 // I am happy to announce that our latest article entitled "Non-destructive estimation of chlorophyll content in wasabi (Eutrema japonicum) leaves using spectral reflectance and deep learning models" has been published at Journal of Food Composition and Analysis, (Scopus Q1, IF:4.6).
@@ -46,6 +46,8 @@
 
 ## Conference Presentations and Training (_2022-Latest_)
 
+*   14th EARSeL Workshop on Imaging Spectroscopy in Helsinki, *Oral Presentator*.[(2026)](https://is.earsel.org/workshop/14-IS-Helsinki2026/)
+*   Interdisciplinary Insight from RECROP, DIVERSICROP and PANGEOS, *Poster Presentator*.[(2026)](https://www.cost2026prague.eu/)
 *   3rd Workhsop on International Cooperation in Spaceborne Imaging Spectroscopy, ESA Hyperspectral,*Poster Presentator*.[(2024)](https://hyperspectral2024.esa.int/)
 *   Training in 3D Discrete Anisotropic Radiative Transfer (DART), 9 & 10 September 2024 by the Remote Sensing Research Group (RSRG) of the Department of Geography at the University of Bonn.
 *   13th EARSeL Workshop on Imaging Spectroscopy in València, *Poster Presentator*.[(2024)](https://is.earsel.org/workshop/13-IS-Valencia2024/)
